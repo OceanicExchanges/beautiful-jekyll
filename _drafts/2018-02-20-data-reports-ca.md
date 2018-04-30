@@ -5,11 +5,12 @@ tags: [dh, DiD, data reports]
 author: rccordell
 ---
 
-[Chronicling America](https://chroniclingamerica.loc.gov/) provides an aggregated, public portal to historical newspapers from the United States, collected under the the [National Digital Newspaper Program](http://www.loc.gov/ndnp/), a collaboration between the National Endowment for the Humanities and the Library of Congress.
+[Chronicling America](https://chroniclingamerica.loc.gov/) provides an aggregated, public portal to historical newspapers from the United States, collected under the the [National Digital Newspaper Program](http://www.loc.gov/ndnp/), a collaboration between the National Endowment for the Humanities and the Library of Congress. Newspapers have been digitized from the years 1789-1963, though the bulk of the collection comes from the nineteenth century—indeed, especially from around 1850 on—to around 1922, the date commonly considered the US copyright boundary. Indeed, of the 2,576 titles available in Chronicling America as of April 2018, only 8 titles include issues from the decades 1780-1790, and only 24 titles reach into the decades 1930-1960.
 
-Newspaper Overview:
+Newspaper Overview as of April 2018:
 
-+ As of November 2017, Chronicling America claims to publish 12,455,027 historical newspaper pages
++ 2,576 distinct historical newspaper titles (which can, however, include multiple title changes in a largely stable paper as separate titles)
++ 13,286,065 historical newspaper pages
 + Page images are provided in PDF and JPG2 through the web interface. Additionally, archive-quality TIFF facsimiles can be requested from the Library of Congress
 + OCR-derived, page-level text data is provided in both TXT and XML formats
 + Titles available at <http://chroniclingamerica.loc.gov/newspapers.txt>
