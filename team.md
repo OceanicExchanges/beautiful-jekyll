@@ -56,7 +56,7 @@ Oceanic Exchanges brings together a consortium of cultural historians, computati
 + **Melissa Terras** - Professor of Digital Cultural Heritage in the College of Arts, Humanities, and Social Sciences & Chair, Center for Digital Cultural Heritage, *University of Edinburgh*
 + **James Hetherington** - Head of Research Software Development for High-Processing Computing in Research IT Services, *University College London*
 + **Raquel Alegre** - Research Software Developer for High-Processing Computing in Research IT Services, *University College London*
-+ **Tessa Hauswedell** - Teaching Fellow, *University College London*
++ **Tessa Hauswedell** - Research Associate, *University College London*
 
 -----
 
