@@ -65,7 +65,7 @@ Oceanic Exchanges brings together a consortium of cultural historians, computati
 + **James Hetherington** - Head of Research Software Development for High-Processing Computing in Research IT Services, *University College London*
 + **Raquel Alegre** - Research Software Developer for High-Processing Computing in Research IT Services, *University College London*
 + **Emily Bell** - Research Associate, *Loughborough University*
-+ **Tessa Hauswedell** - Teaching Fellow, *University College London*
++ **Tessa Hauswedell** - Research Associate, *University College London*
 + **Roma Klapaukh** - Research Software Developer for Research IT Services (High Processing Computing), *University College London*
 + **Olivia Mitchell** - Post-Graduate Researcher, *Loughborough University*
 
