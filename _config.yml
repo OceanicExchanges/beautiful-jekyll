@@ -207,6 +207,9 @@ gems:
 # 2fc73a3a967e97599c9763d05e564189
 
 # /mx/ variables
+mx-url: "https://oceanicexchanges.org/mx"
+mx-title: "Intercambios oceánicos"
+
 # List of links in the navigation bar
 mx-navbar-links:
   Equipo: "mx/equipo/"
