@@ -1,7 +1,8 @@
 ---
 layout: page
 title: El equipo
-permalink: /mx/equipo
+permalink: /mx/equipo/
+
 ---
 - Dra. Isabel Galina Russell, IIB-UNAM- Investigadora principal del proyecto
 - Dr. Ernesto Priani Saisó, FFyL_UNAM- Investigador principal del proyecto
