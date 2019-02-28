@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mx-page
 title: Resultados
 permalink: /mx/resultados/
 
