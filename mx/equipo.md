@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mx-page
 title: El equipo
 permalink: /mx/equipo/
 
