@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Intercambios oceánicos
+subtitle: Trazando redes de información global en repositorios de periódicos históricos, 1840-1914
+bigimg: /img/mx/mapacable.jpeg
 permalink: /mx/
 
 ---
