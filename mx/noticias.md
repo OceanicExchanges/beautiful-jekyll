@@ -2,6 +2,7 @@
 layout: page
 title: Noticias
 permalink: /mx/noticias/
+
 ---
 # Taller: Introducción a herramientas para el análisis de acervos digitalizados
 
