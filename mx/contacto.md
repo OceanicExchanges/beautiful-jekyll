@@ -2,6 +2,7 @@
 layout: page
 title: Contacto
 permalink: /mx/contacto/
+
 ---
 Intercambios Oceánicos (<intercambiosoceanicos@gmail.com>)
 
