@@ -208,7 +208,7 @@ gems:
 
 # /mx/ variables
 # List of links in the navigation bar
-navbar-links-mx:
+mx-navbar-links:
   Equipo: "equipo"
   Resultados: "resultados"
   Noticias: "noticias"
