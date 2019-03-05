@@ -13,7 +13,7 @@ permalink: /mx/noticias/
 
 Sala de Videoconferencias (4to. piso de la Hemeroteca Nacional)
 
-<img src="{{site.mx-base}}/img/mx/mapa.jpg">
+![Póster informativo sobre el taller](/img/mx/mapa.jpg)
 
 Este taller introductorio revisa problemáticas, metodologías, soluciones, herramientas y aproximaciones teórico prácticas para trabajar con documentación digitalizada, específicamente, el trabajo con hemerotecas digitales/digitalizadas. A partir del uso de herramientas de análisis y la implementación de procesos, es posible estudiar -desde una perspectiva humanística y de las ciencias sociales- el flujo de la información y su comportamiento en corpus digitales.
 
