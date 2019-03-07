@@ -21,7 +21,7 @@ Dirigido a: investigadores, estudiantes e interesados en acervos digitales.
 
 Cupo limitado a 20 personas.
 
-[REGISTRO](https://docs.google.com/forms/d/1RbCKAMk1wMhiRz3KrxA_w4TU6zP9f7a36RjF6RvEl1g/viewform?edit_requested=true"REGISTRO")
+[REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLScnHlkbT95m8LtYYFi32IYNA98yHKS_mppW4quGCnd1ngP_5w/viewform)
 
 Contacto: <intercambiosoceanicos@gmail.com>
 
