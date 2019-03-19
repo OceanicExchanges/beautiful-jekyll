@@ -15,5 +15,5 @@ permalink: /mx/equipo/
 - Mtro. Gilberto Leon Martagón, UAM-Cuajimalpa- Desarrollo de visualizaciones
 - Marco Godínez Bustos - FFyL-UNAM- Desarrollo de aplicaciones
 - Lic. Fabiola Delfín Martínez, UCSJ- Becaria
-- Laura Angélica López Méndez, UNAM  Becaria
+- Laura Angélica López Méndez, UNAM- Becaria
 
