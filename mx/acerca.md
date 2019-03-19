@@ -18,3 +18,6 @@ Esta página se refiere al componente mexicano del proyecto (que aún se está d
 
 Contacto: <intercambiosoceanicos@gmail.com>
 
+
+
+*Imagen de cabecera: Tehuantepec Railway Company`s (1869)
