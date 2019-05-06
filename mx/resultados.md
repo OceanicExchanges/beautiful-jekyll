@@ -7,10 +7,10 @@ permalink: /mx/resultados/
 **PARTICIPACIÓN EN CONGRESOS**
 
 **Oceanic Exchanges: Transnational Textual Migration and Viral Culture.** Autores: M.H. Beals , Ryan Cordell, Isabel Galina Russell, Julianne Nyhan, Ernesto Priani Saisó, Marc Priewe, Hannu Salmi, David Smith, Melissa Terras, Jaap Verheul.  Se presentará en ***DH2019*** del 9 al 12 de julio del 2019 en Utrecht, Países Bajos. 
-&nbsp;Abstract
+Abstract
 
 **Redes de poder y circuitos de información. El caso de la noticia de la explosión del Maine en la prensa mexicana de 1898.** Autor: Dra. Laura Martínez Domínguez. Se presentará en el ***4to Congreso internacional de historia y ciencias sociales*** del 29 al 31 de mayo del 2019 en Tlalpujahua, Michoacán, México.
-&nbsp;Resumen
+Resumen
 
 **La enseñanza de las Ciencias Sociales con herramientas digitales. El uso de la HNDM como alternativa de innovación para la investigación en el aula de clase.** Autor: Mtra. Rocío Castellanos Rueda. Presentado en el ***XXX Simposio de didáctica de las Ciencias Sociales*** del 9 al 11 de abril del 2019 en Lisboa, Portugal.
 
