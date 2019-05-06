@@ -5,4 +5,4 @@ permalink: /mx/resultados/
 
 ---
 
-## Los resultados comenzarán a publicarse a la brevedad
+## Los resultados comenzarán a publicarse a la brevedad.
