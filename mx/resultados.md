@@ -13,7 +13,6 @@ permalink: /mx/resultados/
 Resumen
 
 **Taller de vinculación para la formación de una asociación para el estudio de la cultura latinoamericana con métodos digitales.** Autor: Dr. Ernesto Priani Saisó. Se presentó en Designing ADRELA: The Alliance for Digital Research on Early Latin America en el ***Congreso de la Latin America Society Asociation 2019*** del 22 al 27 de Mayo de 2019 en Boston, Massachusetts, E.U.A.
-
 &nbsp;Presentación
 
 **La enseñanza de las Ciencias Sociales con herramientas digitales. El uso de la HNDM como alternativa de innovación para la investigación en el aula de clase.** Autor: Mtra. Rocío Castellanos Rueda. Presentado en el ***XXX Simposio de didáctica de las Ciencias Sociales*** del 9 al 11 de abril del 2019 en Lisboa, Portugal.  
