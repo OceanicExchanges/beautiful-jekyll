@@ -6,6 +6,8 @@ permalink: /mx/resultados/
 ---
 **PARTICIPACIÓN EN CONGRESOS**
 
+**¿Cómo se movía la información en el s. XIX? Algunos resultados del proyecto Oceanic exchanges.** Autores: Dra. Isabel Galina Russell, Dra. Miriam Peña Pimentel, Dr. Ernesto Priani Saisó. Se presentará en el ***IV Congreso de la HDH*** del 23 al 25 de octubre del 2019 en Toledo, España.
+
 **Los datos de investigación en las Humanidades-periódicos decimonónicos.** Autores: Dra. Isabel Galina Russell, Dra. Miriam Peña Pimentel, Dr. Ernesto Priani Saisó. Se presentará en ***BIREDIAL-ISTEC*** del 30 de julio al 2 de agosto del 2019 en Sao Paulo, Brasil.
 
 **Oceanic Exchanges: Transnational Textual Migration and Viral Culture.** Autores: M.H. Beals, Ryan Cordell, Isabel Galina Russell, Julianne Nyhan, Ernesto Priani Saisó, Marc Priewe, Hannu Salmi, David Smith, Melissa Terras, Jaap Verheul.  Se presentará en ***DH2019*** del 9 al 12 de julio del 2019 en Utrecht, Países Bajos.  
