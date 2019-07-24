@@ -10,7 +10,7 @@ permalink: /mx/resultados/
 
 **Los datos de investigación en las Humanidades-periódicos decimonónicos.** Autores: Dra. Isabel Galina Russell, Dra. Miriam Peña Pimentel, Dr. Ernesto Priani Saisó. Se presentará en ***BIREDIAL-ISTEC*** del 30 de julio al 2 de agosto del 2019 en Sao Paulo, Brasil.
 
-**Oceanic Exchanges: Transnational Textual Migration and Viral Culture.** Autores: M.H. Beals, Ryan Cordell, Isabel Galina Russell, Julianne Nyhan, Ernesto Priani Saisó, Marc Priewe, Hannu Salmi, David Smith, Melissa Terras, Jaap Verheul.  Se presentará en ***DH2019*** del 9 al 12 de julio del 2019 en Utrecht, Países Bajos.  
+**Oceanic Exchanges: Transnational Textual Migration and Viral Culture.** Autores: M.H. Beals, Ryan Cordell, Isabel Galina Russell, Julianne Nyhan, Ernesto Priani Saisó, Marc Priewe, Hannu Salmi, David Smith, Melissa Terras, Jaap Verheul.  Se presentó en ***DH2019*** del 9 al 12 de julio del 2019 en Utrecht, Países Bajos.  
 [Abstract](https://dh2019.adho.org/panels/)
 
 **Redes de poder y circuitos de información. El caso de la noticia de la explosión del Maine en la prensa mexicana de 1898.** Autor: Dra. Laura Martínez Domínguez. Se presentó en el ***4to Congreso internacional de historia y ciencias sociales*** del 29 al 31 de mayo del 2019 en Tlalpujahua, Michoacán, México.  
