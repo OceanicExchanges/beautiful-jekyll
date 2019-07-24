@@ -9,7 +9,7 @@ permalink: /mx/noticias/
 
 Impartido por Alex Gil, Columbia University
 
-Jueves 22 y viernes 23 de agosto 2019
+Jueves 22 y viernes 23 de agosto, 2019
 
 9:00 a 14:00 hrs
 
