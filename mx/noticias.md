@@ -4,7 +4,7 @@ title: Noticias
 permalink: /mx/noticias/
 
 ---
-# Curso: De bibliografía a cartografía: la producción de mapas digitales a partir de bibliografías
+# Curso- De bibliografía a cartografía: la producción de mapas digitales a partir de bibliografías
 
 
 Impartido por Alex Gil, Columbia University
