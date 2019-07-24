@@ -4,6 +4,38 @@ title: Noticias
 permalink: /mx/noticias/
 
 ---
+# De bibliografía a cartografía: la producción de mapas a partir de bibliografías
+
+
+Curso impartido por Alex Gil, Columbia University
+
+Fechas: jueves 22 y viernes 23 de agosto 2019
+
+Horario: 9am a 2pm
+
+Número total de horas: 10hrs
+
+Sala de Videoconferencias (4to. piso de la Hemeroteca Nacional)
+
+![Póster informativo sobre el taller](img/mx/No final-cartel_cursoAlex.jpg)
+
+¿Tienes una historia que contar con tu bibliografía? ¿Quieres rastrear la procedencia de una colección
+de manuscritos? A menudo tendemos a pensar en nuestras bibliografías como simples listas de libros,
+olvidando a veces que los libros tienen una realidad material en el mundo y que existen silencios
+ocultos en las bibliografías. La creación de "carto-bibliografías" nos permite comenzar a pensar en los
+lugares que desempeñan un papel en la producción, circulación y archivo de libros. En este mini curso,
+aprenderás a navegar por tres herramientas para producir mapas a partir de tu bibliografía: Zotero,
+Open Refine y Carto. El curso también es una excelente introducción a estas herramientas, a la
+transformación de datos y al aprovechamiento de una combinación de herramientas, en oposición a
+una sola herramienta integral, para realizar tareas específicas de un proyecto.
+
+Cupo limitado a 20 personas.
+
+[REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLSdNhndUcnXvMqw2QAyCkMtcMhm8X5PPi_MSRrOr70XQV8BxWg/viewform)
+
+Contacto: <intercambiosoceanicos@gmail.com>
+
+___________________________________________________________________________________________________________________________________
 # Taller: Introducción a herramientas para el análisis de acervos digitalizados
 
 
