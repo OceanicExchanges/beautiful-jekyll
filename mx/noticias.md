@@ -82,7 +82,7 @@ literarios; *Aimé Césaire and the Broken Record*, un experimento informático 
 digital de larga duración; y, *The Same Boats*, una visualización de intersecciones transatlánticas de
 intelectuales negros en el siglo XX.
 
-___________________________________________________________________________________________________________________________________
+**____________________________________________________________________________________________________________________________________**
 # Taller: Introducción a herramientas para el análisis de acervos digitalizados
 
 
