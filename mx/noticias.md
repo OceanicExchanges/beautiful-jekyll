@@ -4,10 +4,10 @@ title: Noticias
 permalink: /mx/noticias/
 
 ---
-# De bibliografía a cartografía: la producción de mapas a partir de bibliografías
+# Curso: De bibliografía a cartografía: la producción de mapas a partir de bibliografías
 
 
-Curso impartido por Alex Gil, Columbia University
+Impartido por Alex Gil, Columbia University
 
 Fechas: jueves 22 y viernes 23 de agosto 2019
 
@@ -34,6 +34,49 @@ Cupo limitado a 20 personas.
 [REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLSdNhndUcnXvMqw2QAyCkMtcMhm8X5PPi_MSRrOr70XQV8BxWg/viewform)
 
 Contacto: <intercambiosoceanicos@gmail.com>
+
+## Temario
+
+**Jueves, 22 de agosto**
+
+***Tema 1: Utilizar Zotero para registrar la ubicación***
+Descripción: Vamos a revisar algunas de las funciones básicas de Zotero. Discutiremos lo que significa
+agregar información geográfica a los elementos bibliográficos. Aprenderemos cómo aprovechar el
+campo extra (Extra field) en Zotero para agregar datos geográficos.
+
+***Tema 2: Limpieza de datos con Open Refine***
+Descripción: Instalaremos y aprenderemos cómo usar OpenRefine para la limpieza básica de datos.
+Aprenderemos cómo separar las columnas de un CSV utilizando delimitadores.
+
+**Viernes, 23 de agosto**
+
+***Tema 3: Introducción a Carto***
+Exploraremos las opciones de mapeo y las capacidades de personalización de CARTO. Discutiremos
+mapas base, estilos, etiquetas y anotaciones, estrategias de diseño y opciones de publicación.
+
+***Tema 4: Publicando tu mapa web***
+Descripción: Exploraremos cómo tomar tu tabla de ubicaciones de tu bibliografía y visualizarlas
+utilizando CARTO, una plataforma de mapeo en línea. Crearás tu propia cuenta CARTO, cargarás
+tus datos y utilizarás los servicios de geocodificación de CARTO para cartografiar tu ubicación. Luego
+crearemos un mapa web básico en el entorno de CARTO.
+
+## RESUMEN CURRICULAR
+
+Alex Gil es el coordinador de Digital Scholarship en la Coordinación de bibliotecas y académico
+afiliado al Departamento de Inglés y Literatura Comparada en la Universidad de Columbia. Colabora
+con profesores, estudiantes y profesionales de bibliotecas en el aprovechamiento de las tecnologías
+computacionales y de red para la investigación en humanidades, la pedagogía y comunicaciones
+académicas. Fundó y actualmente encabeza numerosas exitosas iniciativas tales como: codirector del
+Studio@Butler en la Universidad de Columbia, un espacio innovador de bibliotecas tech-light centrado
+en la escolaridad y pedagogía digital; moderador de la facultad del Grupo para Métodos
+Experimentales en Humanidades de Columbia, un vibrante grupo de investigación transdisciplinaria
+enfocado en humanidades experimentales; actual presidente de Global Outlook:: Digital Humanities,
+un grupo de interés que conecta a académicos de todo el mundo; editor senior de sx archipelagos, una
+revista de Caribbean Digital Studies, y co-organizador de la serie de conferencias The Caribbean
+Digital. Sus proyectos actuales incluyen Ed, una plataforma digital para ediciones mínimas de textos
+literarios; Aimé Césaire and the Broken Record, un experimento informático mínimo en investigación
+digital de larga duración; y, The Same Boats, una visualización de intersecciones transatlánticas de
+intelectuales negros en el siglo XX.
 
 ___________________________________________________________________________________________________________________________________
 # Taller: Introducción a herramientas para el análisis de acervos digitalizados
