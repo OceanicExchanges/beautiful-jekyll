@@ -4,7 +4,7 @@ title: Noticias
 permalink: /mx/noticias/
 
 ---
-# Curso: De bibliografía a cartografía: la producción de mapas a partir de bibliografías
+# Curso: De bibliografía a cartografía: la producción de mapas digitales a partir de bibliografías
 
 
 Impartido por Alex Gil, Columbia University
@@ -78,7 +78,7 @@ literarios; *Aimé Césaire and the Broken Record*, un experimento informático 
 digital de larga duración; y, *The Same Boats*, una visualización de intersecciones transatlánticas de
 intelectuales negros en el siglo XX.
 
-**__________________________________________________________________________________________________________**
+***
 # Taller: Introducción a herramientas para el análisis de acervos digitalizados
 
 
