@@ -39,26 +39,22 @@ Contacto: <intercambiosoceanicos@gmail.com>
 
 **Jueves, 22 de agosto**
 
-***Tema 1: Utilizar Zotero para registrar la ubicación***
-
+***Tema 1: Utilizar Zotero para registrar la ubicación***   
 Vamos a revisar algunas de las funciones básicas de Zotero. Discutiremos lo que significa
 agregar información geográfica a los elementos bibliográficos. Aprenderemos cómo aprovechar el
 campo extra (Extra field) en Zotero para agregar datos geográficos.
 
-***Tema 2: Limpieza de datos con Open Refine***
-
+***Tema 2: Limpieza de datos con Open Refine***  
 Instalaremos y aprenderemos cómo usar OpenRefine para la limpieza básica de datos.
 Aprenderemos cómo separar las columnas de un CSV utilizando delimitadores.
 
 **Viernes, 23 de agosto**
 
-***Tema 3: Introducción a Carto***
-
+***Tema 3: Introducción a Carto***  
 Exploraremos las opciones de mapeo y las capacidades de personalización de CARTO. Discutiremos
 mapas base, estilos, etiquetas y anotaciones, estrategias de diseño y opciones de publicación.
 
-***Tema 4: Publicando tu mapa web***
-
+***Tema 4: Publicando tu mapa web***  
 Exploraremos cómo tomar tu tabla de ubicaciones de tu bibliografía y visualizarlas
 utilizando CARTO, una plataforma de mapeo en línea. Crearás tu propia cuenta CARTO, cargarás
 tus datos y utilizarás los servicios de geocodificación de CARTO para cartografiar tu ubicación. Luego
