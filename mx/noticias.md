@@ -9,9 +9,9 @@ permalink: /mx/noticias/
 
 Impartido por Alex Gil, Columbia University
 
-Fechas: jueves 22 y viernes 23 de agosto 2019
+Jueves 22 y viernes 23 de agosto 2019
 
-Horario: 9am a 2pm
+9:00 a 14:00 hrs
 
 Número total de horas: 10hrs
 
