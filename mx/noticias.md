@@ -17,7 +17,7 @@ Número total de horas: 10hrs
 
 Sala de Videoconferencias (4to. piso de la Hemeroteca Nacional)
 
-![Póster informativo sobre el taller](/img/mx/No final-cartel_cursoAlex.jpg)
+![Póster informativo sobre el taller](/img/mx/cartel_bibliografia_v3.jpg )
 
 ¿Tienes una historia que contar con tu bibliografía? ¿Quieres rastrear la procedencia de una colección
 de manuscritos? A menudo tendemos a pensar en nuestras bibliografías como simples listas de libros,
