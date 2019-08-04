@@ -39,7 +39,7 @@ permalink: /mx/resultados/
   
 **SESIONES INFORMATIVAS Y TALLERES**
 
-**Curso- De bibliografía a cartografía: la producción de mapas digitales a partir de bibliografías.** 22 y 23 de agosto del 2019 en la Hemeroteca Nacional de México. 
+**Curso- De bibliografía a cartografía: la producción de mapas digitales a partir de bibliografías.** 22 y 23 de agosto del 2019 en la Hemeroteca Nacional de México.   
 [Programa](https://oceanicexchanges.org/mx/noticias/)
 
 **Taller: Introducción a herramientas para el análisis de acervos digitalizados.** 28 y 29 de marzo del 2019 en la Hemeroteca Nacional de México.  
