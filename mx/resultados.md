@@ -4,6 +4,14 @@ title: Resultados
 permalink: /mx/resultados/
 
 ---
+
+**ARTÍCULOS**
+
+**El uso de periódicos digitalizados como fuente para trabajos de investigación.** Autores: Dra. Isabel Galina Russell, Dra. Laura Martínez Domínguez, Dra. Miriam Peña Pimentel, Dr. Ernesto Priani Saisó, Mtra. Rocío Castellanos Rueda.
+
+
+**“Si los telegramas no mienten”. Origen y circulación de las noticias de la explosión del Maine en la prensa mexicana, febrero 1898.** Laura Angélica López Méndez, Mtra. Rocío Castellanos Rueda, Dra. Laura Martínez Domínguez, Dra. Ximena Gutiérrez-Vasques, Dr. Ernesto Priani Saisó.
+
 **PARTICIPACIÓN EN CONGRESOS**
 
 **¿Cómo se movía la información en el s. XIX? Algunos resultados del proyecto Oceanic exchanges.** Autores: Dra. Isabel Galina Russell, Dra. Miriam Peña Pimentel, Dr. Ernesto Priani Saisó. Se presentará en el ***IV Congreso de la HDH*** del 23 al 25 de octubre del 2019 en Toledo, España.
@@ -30,6 +38,9 @@ permalink: /mx/resultados/
 [Presentación]({{sire.url}}/mx/pdf/Querétaro.pdf)
   
 **SESIONES INFORMATIVAS Y TALLERES**
+
+**Curso- De bibliografía a cartografía: la producción de mapas digitales a partir de bibliografías.** 22 y 23 de agosto del 2019 en la Hemeroteca Nacional de México. 
+[Programa](https://oceanicexchanges.org/mx/noticias/)
 
 **Taller: Introducción a herramientas para el análisis de acervos digitalizados.** 28 y 29 de marzo del 2019 en la Hemeroteca Nacional de México.  
 [Programa](https://oceanicexchanges.org/mx/noticias/)
