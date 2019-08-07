@@ -7,10 +7,10 @@ permalink: /mx/resultados/
 
 **ARTÍCULOS**
 
-**El uso de periódicos digitalizados como fuente para trabajos de investigación.** Autores: Dra. Isabel Galina Russell, Dra. Laura Martínez Domínguez, Dra. Miriam Peña Pimentel, Dr. Ernesto Priani Saisó, Mtra. Rocío Castellanos Rueda- En dictamen.
+**El uso de periódicos digitalizados como fuente para trabajos de investigación.** Autores: Dra. Isabel Galina Russell, Dra. Laura Martínez Domínguez, Dra. Miriam Peña Pimentel, Dr. Ernesto Priani Saisó, Mtra. Rocío Castellanos Rueda [En dictamen].
 
 
-**“Si los telegramas no mienten”. Origen y circulación de las noticias de la explosión del Maine en la prensa mexicana, febrero 1898.** Laura Angélica López Méndez, Mtra. Rocío Castellanos Rueda, Dra. Laura Martínez Domínguez, Dra. Ximena Gutiérrez-Vasques, Dr. Ernesto Priani Saisó- En dictamen.
+**“Si los telegramas no mienten”. Origen y circulación de las noticias de la explosión del Maine en la prensa mexicana, febrero 1898.** Laura Angélica López Méndez, Mtra. Rocío Castellanos Rueda, Dra. Laura Martínez Domínguez, Dra. Ximena Gutiérrez-Vasques, Dr. Ernesto Priani Saisó [En dictamen].
 
 **PARTICIPACIÓN EN CONGRESOS**
 
