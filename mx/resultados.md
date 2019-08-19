@@ -13,6 +13,10 @@ permalink: /mx/resultados/
 
 **“Si los telegramas no mienten”. Origen y circulación de las noticias de la explosión del Maine en la prensa mexicana, febrero 1898.** Laura Angélica López Méndez, Mtra. Rocío Castellanos Rueda, Dra. Laura Martínez Domínguez, Dra. Ximena Gutiérrez-Vasques, Dr. Ernesto Priani Saisó [En dictamen].
 
+**CAPÍTULOS DE LIBROS**
+
+**Políticas de digitalización para la investigación. El caso de la HNDM y el proyecto Oceanic Exchanges.** Autores: Dra. Isabel Galina Russell y Dr. Ernesto Priani Saisó. En el libro ***Humanidades Digitales. Una visión desde México.*** Autor: Carlos Alberto Martínez Hernández: Fondo Editorial de la Universidad Autónoma de Querétaro [En proceso de publicación].  
+
 **PARTICIPACIÓN EN CONGRESOS**
 
 **¿Cómo se movía la información en el s. XIX? Algunos resultados del proyecto Oceanic exchanges.** Autores: Dra. Isabel Galina Russell, Dra. Miriam Peña Pimentel, Dr. Ernesto Priani Saisó. Se presentará en el ***IV Congreso de la HDH*** del 23 al 25 de octubre del 2019 en Toledo, España.
