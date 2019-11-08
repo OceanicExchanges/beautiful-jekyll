@@ -26,6 +26,7 @@ navbar-links:
   # About: "index"
   Team: "team"
   News: "news"
+  Outcomes: "outcomes"
   Data: "https://osf.io/wa94s/"
   Project Links:
     - Digging Into Data: "https://diggingintodata.org/"
