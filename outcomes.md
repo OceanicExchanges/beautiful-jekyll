@@ -13,6 +13,10 @@ title: Project Outcomes
 + Martin Riedl and Sebastian Padó. “Named Entity Recognition Shootout for German”. In: *Proceedings of ACL*, pages 120-125. Melbourne, Australia, 2018. <http://aclweb.org/anthology/P18-2020.pdf>
 + Martin Riedl, Daniela Betz and Sebastian Padó. “Clustering-Based Article Identification in Historical Newspapers”. In: *Proceedings of the NAACL LaTeCH-CLfL workshop*. Minneapolis, MN, 2019. <https://www.aclweb.org/anthology/W19-2502.pdf>
 
+### Forthcoming
+
++ Tessa Hauswedell, Julianne Nyhan, M. H. Beals, Melissa Terras and Emily Bell. ‘Of Global Reach Yet of Situated Contexts: An Examination of the Implicit and Explicit Selection Criteria that Shape Digital Archives of Historical Newspapers.’ *Archival Science: International Journal on Recorded Information*, forthcoming.
+
 ### Under Review
 
 + Galina Russell Isabel and Priani Saisó Ernesto. "Políticas de digitalización para la investigación. El caso de la HNDM y el proyecto Oceanic Exchanges". In: Humanidades Digitales. Una visión desde México. Carlos Alberto Martínez Hernández: Fondo Editorial de la Universidad Autónoma de Querétaro [in the process of being published].
