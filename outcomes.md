@@ -11,19 +11,16 @@ title: Project Outcomes
 + Viola, Lorella and Verheul, Jaap. 2019. "The Media Construction of Italian Identity: A Transatlantic, Digital Humanities Analysis of italianità, Ethnicity, and Whiteness, 1867-1920". *Identity* 19.4, 2019. DOI: 10.1080/15283488.2019.1681271
 + Viola, Lorella and Verheul, Jaap. 2019. "Mining ethnicity: Discourse-driven topic modelling of immigrant discourses in the USA, 1898–1920". *Digital Scholarship in the Humanities*, October 2019. DOI: 10.1093/llc/fqz068
 + Franke, Max,Ralph Barczok,Steffen Koch and DorotheaWeltecke. “Confidence as First-class Attribute in Digital Humanities Data.” In: *Proceedings of the 4th VIS4DH Workshop*. Vancouver, Canada, 2019. <http://vis4dh.dbvis.de/papers/2019/VIS4DH2019_paper_1.pdf>
++ Latva, Otto, *The Giant Squid: Imagining and Encountering the Unknown from the 1760s to the 1890s*. Doctoral dissertation. University of Turku, Turku 2019.
 + Martin Riedl and Sebastian Padó. “Named Entity Recognition Shootout for German”. In: *Proceedings of ACL*, pages 120-125. Melbourne, Australia, 2018. <http://aclweb.org/anthology/P18-2020.pdf>
 + Martin Riedl, Daniela Betz and Sebastian Padó. “Clustering-Based Article Identification in Historical Newspapers”. In: *Proceedings of the NAACL LaTeCH-CLfL workshop*. Minneapolis, MN, 2019. <https://www.aclweb.org/anthology/W19-2502.pdf>
 + Riedl, Martin and Sebastian Padó. “Named Entity Recognition Shootout for German”. In: *Proceedings of ACL*, pages 120-125. Melbourne, Australia, 2018. <http://aclweb.org/anthology/P18-2020.pdf>
 
 ### Forthcoming
 
++ Galina Russell, Isabel and Ernesto Priani Saisó. "Políticas de digitalización para la investigación. El caso de la HNDM y el proyecto Oceanic Exchanges". In: Humanidades Digitales. Una visión desde México. Carlos Alberto Martínez Hernández: Fondo Editorial de la Universidad Autónoma de Querétaro, forthcoming.
 + Tessa Hauswedell, Julianne Nyhan, M. H. Beals, Melissa Terras and Emily Bell. ‘Of Global Reach Yet of Situated Contexts: An Examination of the Implicit and Explicit Selection Criteria that Shape Digital Archives of Historical Newspapers.’ *Archival Science: International Journal on Recorded Information*, forthcoming.
 + Franke, Max. Markus John, Moritz Knabben, Jana Keck, Tanja Blascheck and Steffen Koch. "LilyPads: Exploring the Spatiotemporal Dissemination of Historical Newspaper Articles." In: *Proceedings of the 11th International Conference on Information Visualization Theory and Applications*. Valletta, Malta, 2020. 
-
-### Forthcoming
-
-+ Galina Russell, Isabel and Ernesto Priani Saisó. "Políticas de digitalización para la investigación. El caso de la HNDM y el proyecto Oceanic Exchanges". In: Humanidades Digitales. Una visión desde México. Carlos Alberto Martínez Hernández: Fondo Editorial de la Universidad Autónoma de Querétaro, forthcoming.
-+ Hauswedell, Tessa, Julianne Nyhan, M. H. Beals, Melissa Terras and Emily Bell. ‘Of Global Reach Yet of Situated Contexts: An Examination of the Implicit and Explicit Selection Criteria that Shape Digital Archives of Historical Newspapers.’ *Archival Science: International Journal on Recorded Information*, forthcoming.
 
 ### Under Review
 
