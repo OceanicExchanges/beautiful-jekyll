@@ -33,7 +33,7 @@ title: Project Outcomes
 
 ## Datasets & Visualizations
 
-+ Smith, David et al. 2020. Metadata (including derived geolocation data) for all global newspapers used in *Oceanic Exchanges* project. <https://github.com/ViralTexts/newspaper-metadata>.
++ Smith, David et al. 2020. Metadata (including derived geolocation data) for all global newspapers used in *Oceanic Exchanges* project. <https://github.com/OceanicExchanges/NewspaperMetadata>.
 + Viola, Lorella. 2018. *ChroniclItaly: A corpus of Italian language newspapers published in the United
 States between 1898 and 1922*. Utrecht University. DOI: 10.24416/UU01-T4YMOW.
 + Viola, Lorella. 2019. *ChroniclItaly 2.0. A corpus of Italian American newspapers annotated for
