@@ -5,7 +5,7 @@ title: Project Outcomes
 
 ## Reports and Reference Materials
 
-Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Mila Oiva, Sebastian Padó, Miriam Peña Pimentel, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges*. Loughborough: 2020. DOI: [10.6084/m9.figshare.11560059](http://www.doi.org/10.6084/m9.figshare.11560059). [https://www.digitisednewspapers.net/](https://www.digitisednewspapers.net/)
++ Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Mila Oiva, Sebastian Padó, Miriam Peña Pimentel, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges*. Loughborough: 2020. DOI: [10.6084/m9.figshare.11560059](http://www.doi.org/10.6084/m9.figshare.11560059). [https://www.digitisednewspapers.net/](https://www.digitisednewspapers.net/)
 
 ## Articles
 
