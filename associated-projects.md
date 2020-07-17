@@ -4,6 +4,10 @@ title: Associated Projects
 subtitle: Previous and Related Projects Involving OcEx Researchers
 ---
 
+### Global
+
++ [_The Atlas: Mapping the Histories and Data of Digitised Newspaper Collections Around the World_](https://www.digitisednewspapers.net/)
+
 ### Nederland
 
 + [Translantis: The Emergence of the United States as a Reference Culture in Public Discourse in the Netherlands, 1890-1990 (NWO, 2013–2018)](http://translantis.wp.hum.uu.nl/)

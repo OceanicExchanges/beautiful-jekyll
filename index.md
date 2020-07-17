@@ -11,7 +11,6 @@ The dramatic expansion of newspapers over the 19th century created a global cul
 
 Through computational analysis, OcEx also crosses the boundaries that separate digitized newspaper corpora to illustrate the global connectedness of 19th century newspapers. OcEx uncovers how the international was refracted through the local as news, advice, vignettes, popular science, poetry, fiction, and more. By linking research across large-scale digital newspaper collections, OcEx offers a model for data custodians that host large-scale humanities data.
 
-We’re just getting started, so watch for more in 2017-2019.
 
 ## Suggested Project Citation
 
